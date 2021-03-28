@@ -244,6 +244,7 @@ Cocktail
 }
 .cocktail:hover {
   box-shadow: var(--darkShadow);
+  transform: scale(1.05);
 }
 .cocktail img {
   height: 20rem;
